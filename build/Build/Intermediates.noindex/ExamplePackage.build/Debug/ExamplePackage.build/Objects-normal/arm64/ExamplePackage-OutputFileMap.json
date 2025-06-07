@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master.dia",
+    "emit-module-dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master.swiftdeps"
+  },
+  "/Users/samuelalake/Developer/Swift/ExamplePackage/Sources/ExamplePackage/ExamplePackage.swift" : {
+    "const-values" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.swiftconstvalues",
+    "dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.d",
+    "diagnostics" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.dia",
+    "index-unit-output-path" : "/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.o",
+    "llvm-bc" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.bc",
+    "object" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.o",
+    "swift-dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage.swiftdeps",
+    "swiftmodule" : "/Users/samuelalake/Developer/Swift/ExamplePackage/build/Build/Intermediates.noindex/ExamplePackage.build/Debug/ExamplePackage.build/Objects-normal/arm64/ExamplePackage~partial.swiftmodule"
+  }
+}

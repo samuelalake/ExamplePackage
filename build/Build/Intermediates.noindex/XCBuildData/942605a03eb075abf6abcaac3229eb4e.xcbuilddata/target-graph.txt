@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'ExamplePackage' in project 'ExamplePackage'
+➜ Explicit dependency on target 'ExamplePackage' in project 'ExamplePackage'
+Target 'ExamplePackage' in project 'ExamplePackage' (no dependencies)
