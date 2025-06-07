@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>11</integer>
+	<key>logs</key>
+	<dict>
+		<key>2CE46E9B-129B-4810-8084-A3448DFE1976</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>2CE46E9B-129B-4810-8084-A3448DFE1976.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+				<key>totalNumberOfAnalyzerIssues</key>
+				<integer>0</integer>
+				<key>totalNumberOfErrors</key>
+				<integer>0</integer>
+				<key>totalNumberOfTestFailures</key>
+				<integer>0</integer>
+				<key>totalNumberOfWarnings</key>
+				<integer>0</integer>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>ExamplePackage</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>ExamplePackage</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace ExamplePackage with scheme ExamplePackage</string>
+			<key>timeStartedRecording</key>
+			<real>771016893.73644698</real>
+			<key>timeStoppedRecording</key>
+			<real>771016895.70453501</real>
+			<key>title</key>
+			<string>Building workspace ExamplePackage with scheme ExamplePackage</string>
+			<key>uniqueIdentifier</key>
+			<string>2CE46E9B-129B-4810-8084-A3448DFE1976</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

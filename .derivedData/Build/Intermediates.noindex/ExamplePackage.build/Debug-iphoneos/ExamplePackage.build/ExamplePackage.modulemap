@@ -1,0 +1,4 @@
+module ExamplePackage {
+header "ExamplePackage-Swift.h"
+export *
+}

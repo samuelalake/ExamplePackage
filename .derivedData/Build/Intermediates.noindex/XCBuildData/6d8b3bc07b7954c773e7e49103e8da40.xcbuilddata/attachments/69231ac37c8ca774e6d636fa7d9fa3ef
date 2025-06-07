@@ -1,0 +1,18 @@
+{
+  "" : {
+    "diagnostics" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master.dia",
+    "emit-module-dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master-emit-module.d",
+    "emit-module-diagnostics" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master-emit-module.dia",
+    "swift-dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/ExamplePackage-master.swiftdeps"
+  },
+  "/Users/samuelalake/Developer/Swift/ExamplePackage/Sources/ExamplePackage/Button.swift" : {
+    "const-values" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.swiftconstvalues",
+    "dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.d",
+    "diagnostics" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.dia",
+    "index-unit-output-path" : "/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.o",
+    "llvm-bc" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.bc",
+    "object" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.o",
+    "swift-dependencies" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button.swiftdeps",
+    "swiftmodule" : "/Users/samuelalake/Developer/Swift/ExamplePackage/.derivedData/Build/Intermediates.noindex/ExamplePackage.build/Debug-iphoneos/ExamplePackage.build/Objects-normal/arm64/Button~partial.swiftmodule"
+  }
+}
