@@ -1,9 +1,9 @@
 # ``ExamplePackage``
-
+Some text explaining how awesome this pakage is
 <!--@START_MENU_TOKEN@-->Summary<!--@END_MENU_TOKEN@-->
 
 ## Overview
-
+Some overview text
 <!--@START_MENU_TOKEN@-->Text<!--@END_MENU_TOKEN@-->
 
 ## Topics
